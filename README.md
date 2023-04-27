@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m7md_osa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m7md_osa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed abuelwafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed abuelwafa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammed-abuelwafa-445358165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed abuelwafa" height="30" width="40" /></a>
 <a href="https://medium.com/@mohammedabuelwafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohammedabuelwafa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/osos3006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osos3006" height="30" width="40" /></a>
 </p>
