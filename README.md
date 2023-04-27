@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osos3006&label=Profile%20views&color=0e75b6&style=flat" alt="osos3006" /> </p>
 
+<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osos3006" alt="osos3006" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/m7md_osa" target="blank"><img src="https://img.shields.io/twitter/follow/m7md_osa?logo=twitter&style=for-the-badge" alt="m7md_osa" /></a> </p>
