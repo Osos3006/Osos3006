@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/m7md_osa" target="blank"><img src="https://img.shields.io/twitter/follow/m7md_osa?logo=twitter&style=for-the-badge" alt="m7md_osa" /></a> </p>
 
-- 🔭 I’m currently working on **Capital Software Suite**
+- 🔭 I’m currently working on: **Capital Software Suite**
 
-- 👯 I’m looking to collaborate on **Interesting Open Source Projects related to Cloud, SaaS, Backend Engineering and Machine learning**
+- 👯 I’m looking to collaborate on: **Interesting Open Source Projects related to Cloud, SaaS, Backend Engineering and Machine learning**
 
-- 💬 Ask me about **Software Development, Data Science**
+- 💬 Ask me about: **Software Development, Data Science**
 
-- 📫 How to reach me **Mohammedabuelwafa@aucegypt.edu**
+- 📫 How to reach me: **Mohammedabuelwafa@aucegypt.edu**
 
-- 📄 Know about my experiences [Mohammed Abuelwafa CV](https://drive.google.com/file/d/15_u35ogajFaW9qH7mSaVOH9Sqz1ZaH8S/view?usp=sharing)
+- 📄 Know about my experiences: [Mohammed Abuelwafa CV](https://drive.google.com/file/d/15_u35ogajFaW9qH7mSaVOH9Sqz1ZaH8S/view?usp=sharing)
 
-- ⚡ Personal fact **I am a gamer too! 🎮**
+- ⚡ Personal fact: **I am a gamer too! 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
